@@ -1,0 +1,31 @@
+autogen-agentchat==0.2.38
+together
+streamlit
+# FastAPI and web framework
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+
+# Vector Database
+qdrant-client
+sentence-transformers
+google-generativeai
+# Email functionality
+aiosmtplib
+
+# Data validation and parsing
+pydantic[email]
+python-dotenv
+
+# Utilities
+torch
+transformers
+requests
+httpx
+
+# Development
+pytest
+pytest-asyncio
+flaml[automl]
+
